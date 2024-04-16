@@ -1,0 +1,274 @@
+{
+	"Windows 10 Version 1507": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-05-09T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1511": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-10-10T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1607": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2019-04-09T23:59:59Z",
+			"Standard(Home and Pro)": "2018-04-10T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1703": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2019-10-08T23:59:59Z",
+			"Standard(Home and Pro)": "2018-10-09T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1709": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2020-10-13T23:59:59Z",
+			"Standard(Home and Pro)": "2019-04-09T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1803": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2021-05-11T23:59:59Z",
+			"Standard(Home and Pro)": "2019-11-12T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1809": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2021-05-11T23:59:59Z",
+			"Standard(Home and Pro)": "2020-11-10T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1903": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-12-08T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 1909": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2022-05-10T23:59:59Z",
+			"Standard(Home and Pro)": "2021-05-11T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 2004": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-12-14T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 20H2": {
+		"ended": true,
+		"date": {
+			"Standard(Enterprise and Education)": "2023-05-09T23:59:59Z",
+			"Standard(Home and Pro)": "2022-05-10T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 21H1": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-12-13T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 21H2": {
+		"ended": false,
+		"date": {
+			"Standard(Enterprise and Education)": "2024-06-11T23:59:59Z",
+			"Standard(Home and Pro)": "2023-06-13T23:59:59Z"
+		}
+	},
+	"Windows 10 Version 22H2": {
+		"ended": false,
+		"date": {
+			"Standard": "2025-10-14T23:59:59Z"
+		}
+	},
+	"Windows 11 Version 21H2": {
+		"ended": false,
+		"date": {
+			"Standard(Enterprise and Education)": "2024-10-08T23:59:59Z",
+			"Standard(Home and Pro)": "2023-10-10T23:59:59Z"
+		}
+	},
+	"Windows 11 Version 22H2": {
+		"ended": false,
+		"date": {
+			"Standard(Enterprise and Education)": "2025-10-14T23:59:59Z",
+			"Standard(Home and Pro)": "2024-10-08T23:59:59Z"
+		}
+	},
+	"Windows 11 Version 23H2": {
+		"ended": false,
+		"date": {
+			"Standard(Enterprise and Education)": "2026-11-10T23:59:59Z",
+			"Standard(Home and Pro)": "2025-11-11T23:59:59Z"
+		}
+	},
+	"Windows 7": {
+		"ended": true,
+		"date": {
+			"Extended Security Update Year 1": "2021-01-12T23:59:59Z",
+			"Extended Security Update Year 2": "2022-01-11T23:59:59Z",
+			"Extended Security Update Year 3": "2023-01-10T23:59:59Z",
+			"Service Pack 1": "2020-01-14T23:59:59Z",
+			"Standard": "2013-04-09T23:59:59Z"
+		}
+	},
+	"Windows 8": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-01-12T23:59:59Z"
+		}
+	},
+	"Windows 8.1": {
+		"ended": true,
+		"date": {
+			"ESU": "2023-01-10T23:59:59Z",
+			"Standard": "2018-01-09T23:59:59Z"
+		}
+	},
+	"Windows Server 2003": {
+		"ended": true,
+		"date": {
+			"Service Pack 1": "2009-04-14T23:59:59Z",
+			"Service Pack 2": "2015-07-14T23:59:59Z",
+			"Standard": "2007-04-10T23:59:59Z"
+		}
+	},
+	"Windows Server 2003 R2": {
+		"ended": true,
+		"date": {
+			"Service Pack 2": "2015-07-14T23:59:59Z",
+			"Standard": "2009-04-14T23:59:59Z"
+		}
+	},
+	"Windows Server 2008": {
+		"ended": true,
+		"date": {
+			"Extended Security Update Year 1": "2021-01-12T23:59:59Z",
+			"Extended Security Update Year 2": "2022-01-11T23:59:59Z",
+			"Extended Security Update Year 3": "2023-01-10T23:59:59Z",
+			"Extended Security Update Year 4 (Azure only)": "2024-01-09T23:59:59Z",
+			"Service Pack 2": "2020-01-14T23:59:59Z",
+			"Standard": "2011-07-12T23:59:59Z"
+		}
+	},
+	"Windows Server 2008 R2": {
+		"ended": true,
+		"date": {
+			"Extended Security Update Year 1": "2021-01-12T23:59:59Z",
+			"Extended Security Update Year 2": "2022-01-11T23:59:59Z",
+			"Extended Security Update Year 3": "2023-01-10T23:59:59Z",
+			"Extended Security Update Year 4 (Azure only)": "2024-01-09T23:59:59Z",
+			"Service Pack 1": "2020-01-14T23:59:59Z",
+			"Standard": "2013-04-09T23:59:59Z"
+		}
+	},
+	"Windows Server 2012": {
+		"ended": false,
+		"date": {
+			"Extended Security Update Year 1": "2024-10-08T23:59:59Z",
+			"Extended Security Update Year 2": "2025-10-14T23:59:59Z",
+			"Extended Security Update Year 3": "2026-10-13T23:59:59Z",
+			"Standard": "2023-10-10T23:59:59Z"
+		}
+	},
+	"Windows Server 2012 R2": {
+		"ended": false,
+		"date": {
+			"Extended Security Update Year 1": "2024-10-08T23:59:59Z",
+			"Extended Security Update Year 2": "2025-10-14T23:59:59Z",
+			"Extended Security Update Year 3": "2026-10-13T23:59:59Z",
+			"Standard": "2023-10-10T23:59:59Z"
+		}
+	},
+	"Windows Server 2016": {
+		"ended": false,
+		"date": {
+			"ESU": "2027-01-12T23:59:59Z",
+			"Standard": "2022-01-11T23:59:59Z"
+		}
+	},
+	"Windows Server 2019": {
+		"ended": false,
+		"date": {
+			"ESU": "2029-01-09T23:59:59Z",
+			"Standard": "2024-01-09T23:59:59Z"
+		}
+	},
+	"Windows Server 2022": {
+		"ended": false,
+		"date": {
+			"ESU": "2031-10-14T23:59:59Z",
+			"Standard": "2026-10-13T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 1709": {
+		"ended": true,
+		"date": {
+			"Standard": "2019-04-09T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 1803": {
+		"ended": true,
+		"date": {
+			"Standard": "2019-11-12T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 1809": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-11-10T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 1903": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-12-08T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 1909": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-05-11T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 2004": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-12-14T23:59:59Z"
+		}
+	},
+	"Windows Server, Version 20H2": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-08-09T23:59:59Z"
+		}
+	},
+	"Windows Vista": {
+		"ended": true,
+		"date": {
+			"Service Pack 1": "2011-07-12T23:59:59Z",
+			"Service Pack 2": "2017-04-11T23:59:59Z",
+			"Standard": "2010-04-13T23:59:59Z"
+		}
+	},
+	"Windows XP": {
+		"ended": true,
+		"date": {
+			"Service Pack 1": "2006-10-10T23:59:59Z",
+			"Service Pack 1a": "2006-10-10T23:59:59Z",
+			"Service Pack 2": "2010-07-13T23:59:59Z",
+			"Service Pack 3": "2014-04-08T23:59:59Z",
+			"Standard": "2005-08-30T23:59:59Z"
+		}
+	}
+}

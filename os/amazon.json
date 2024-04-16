@@ -1,0 +1,26 @@
+{
+	"1": {
+		"ended": true,
+		"date": {
+			"Security": "2023-12-31T23:59:59Z",
+			"Standard": "2020-12-31T23:59:59Z"
+		}
+	},
+	"2": {
+		"ended": false,
+		"date": {
+			"Security": "2025-06-30T23:59:59Z",
+			"Standard": "2025-06-30T23:59:59Z"
+		}
+	},
+	"2022": {
+		"ended": true
+	},
+	"2023": {
+		"ended": false,
+		"date": {
+			"Security": "2028-03-15T23:59:59Z",
+			"Standard": "2025-03-15T23:59:59Z"
+		}
+	}
+}

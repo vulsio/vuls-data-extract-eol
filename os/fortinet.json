@@ -1,0 +1,453 @@
+{
+	"FortiAP 5.4": {
+		"ended": true,
+		"date": {
+			"EOS": "2020-07-08T23:59:59Z",
+			"Full": "2019-01-08T23:59:59Z"
+		}
+	},
+	"FortiAP 5.6": {
+		"ended": true,
+		"date": {
+			"EOS": "2021-10-13T23:59:59Z",
+			"Full": "2020-04-13T23:59:59Z"
+		}
+	},
+	"FortiAP 6.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-10-11T23:59:59Z",
+			"Full": "2021-04-11T23:59:59Z"
+		}
+	},
+	"FortiAP 6.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-10-14T23:59:59Z",
+			"Full": "2022-04-14T23:59:59Z"
+		}
+	},
+	"FortiAP 6.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-10-14T23:59:59Z",
+			"Full": "2023-04-14T23:59:59Z"
+		}
+	},
+	"FortiAP 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-10-20T23:59:59Z",
+			"Full": "2024-04-20T23:59:59Z"
+		}
+	},
+	"FortiAP 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-10-14T23:59:59Z",
+			"Full": "2025-04-14T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 5.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2019-03-04T23:59:59Z",
+			"Full": "2017-09-04T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 5.4": {
+		"ended": true,
+		"date": {
+			"EOS": "2020-08-17T23:59:59Z",
+			"Full": "2019-02-17T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 5.6": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-01-27T23:59:59Z",
+			"Full": "2020-07-27T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 6.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-10-18T23:59:59Z",
+			"Full": "2021-04-18T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 6.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-10-11T23:59:59Z",
+			"Full": "2022-04-11T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 6.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-10-09T23:59:59Z",
+			"Full": "2023-04-09T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-10-22T23:59:59Z",
+			"Full": "2024-04-22T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-10-11T23:59:59Z",
+			"Full": "2025-04-11T23:59:59Z"
+		}
+	},
+	"FortiAnalyzer 7.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2027-11-15T23:59:59Z",
+			"Full": "2026-05-15T23:59:59Z"
+		}
+	},
+	"FortiMail 5.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2019-02-25T23:59:59Z",
+			"Full": "2017-08-25T23:59:59Z"
+		}
+	},
+	"FortiMail 5.3": {
+		"ended": true,
+		"date": {
+			"EOS": "2020-05-30T23:59:59Z",
+			"Full": "2018-11-30T23:59:59Z"
+		}
+	},
+	"FortiMail 5.4": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-01-25T23:59:59Z",
+			"Full": "2020-07-25T23:59:59Z"
+		}
+	},
+	"FortiMail 6.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-11-29T23:59:59Z",
+			"Full": "2021-05-29T23:59:59Z"
+		}
+	},
+	"FortiMail 6.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2024-02-09T23:59:59Z",
+			"Full": "2022-08-09T23:59:59Z"
+		}
+	},
+	"FortiMail 6.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-11-08T23:59:59Z",
+			"Full": "2023-05-08T23:59:59Z"
+		}
+	},
+	"FortiMail 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-11-17T23:59:59Z",
+			"Full": "2024-05-17T23:59:59Z"
+		}
+	},
+	"FortiMail 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-11-10T23:59:59Z",
+			"Full": "2025-05-10T23:59:59Z"
+		}
+	},
+	"FortiManager 5.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2019-02-23T23:59:59Z",
+			"Full": "2017-08-23T23:59:59Z"
+		}
+	},
+	"FortiManager 5.4": {
+		"ended": true,
+		"date": {
+			"EOS": "2020-08-17T23:59:59Z",
+			"Full": "2019-02-17T23:59:59Z"
+		}
+	},
+	"FortiManager 5.6": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-01-27T23:59:59Z",
+			"Full": "2020-07-27T23:59:59Z"
+		}
+	},
+	"FortiManager 6.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-10-18T23:59:59Z",
+			"Full": "2021-04-18T23:59:59Z"
+		}
+	},
+	"FortiManager 6.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-10-11T23:59:59Z",
+			"Full": "2022-04-11T23:59:59Z"
+		}
+	},
+	"FortiManager 6.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-10-09T23:59:59Z",
+			"Full": "2023-04-09T23:59:59Z"
+		}
+	},
+	"FortiManager 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-10-22T23:59:59Z",
+			"Full": "2024-04-22T23:59:59Z"
+		}
+	},
+	"FortiManager 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-10-11T23:59:59Z",
+			"Full": "2025-04-11T23:59:59Z"
+		}
+	},
+	"FortiOS 4.2": {
+		"ended": true
+	},
+	"FortiOS 5.4": {
+		"ended": true,
+		"date": {
+			"EOS": "2020-06-21T23:59:59Z",
+			"Full": "2018-12-21T23:59:59Z"
+		}
+	},
+	"FortiOS 5.6": {
+		"ended": true,
+		"date": {
+			"EOS": "2021-09-30T23:59:59Z",
+			"Full": "2020-03-30T23:59:59Z"
+		}
+	},
+	"FortiOS 6.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-09-29T23:59:59Z",
+			"Full": "2021-03-29T23:59:59Z"
+		}
+	},
+	"FortiOS 6.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-09-28T23:59:59Z",
+			"Full": "2022-03-28T23:59:59Z"
+		}
+	},
+	"FortiOS 6.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-09-30T23:59:59Z",
+			"Full": "2023-03-31T23:59:59Z"
+		}
+	},
+	"FortiOS 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-09-30T23:59:59Z",
+			"Full": "2024-03-30T23:59:59Z"
+		}
+	},
+	"FortiOS 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-09-30T23:59:59Z",
+			"Full": "2025-03-31T23:59:59Z"
+		}
+	},
+	"FortiOS 7.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2027-11-11T23:59:59Z",
+			"Full": "2026-05-11T23:59:59Z"
+		}
+	},
+	"FortiProxy 1.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-10-11T23:59:59Z",
+			"Full": "2021-04-11T23:59:59Z"
+		}
+	},
+	"FortiProxy 1.1": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-06-22T23:59:59Z",
+			"Full": "2021-12-22T23:59:59Z"
+		}
+	},
+	"FortiProxy 1.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-07-30T23:59:59Z",
+			"Full": "2022-01-30T23:59:59Z"
+		}
+	},
+	"FortiProxy 2.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-05-15T23:59:59Z",
+			"Full": "2023-11-15T23:59:59Z"
+		}
+	},
+	"FortiProxy 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-02-24T23:59:59Z",
+			"Full": "2024-08-24T23:59:59Z"
+		}
+	},
+	"FortiProxy 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2027-03-20T23:59:59Z",
+			"Full": "2025-09-20T23:59:59Z"
+		}
+	},
+	"FortiSandbox 2.4": {
+		"ended": true,
+		"date": {
+			"EOS": "2021-11-03T23:59:59Z",
+			"Full": "2020-05-03T23:59:59Z"
+		}
+	},
+	"FortiSandbox 2.5": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-05-02T23:59:59Z",
+			"Full": "2020-11-02T23:59:59Z"
+		}
+	},
+	"FortiSandbox 3.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-01-31T23:59:59Z",
+			"Full": "2021-07-31T23:59:59Z"
+		}
+	},
+	"FortiSandbox 3.1": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-12-18T23:59:59Z",
+			"Full": "2022-06-18T23:59:59Z"
+		}
+	},
+	"FortiSandbox 3.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-10-30T23:59:59Z",
+			"Full": "2023-04-30T23:59:59Z"
+		}
+	},
+	"FortiSandbox 4.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2025-10-19T23:59:59Z",
+			"Full": "2024-04-19T23:59:59Z"
+		}
+	},
+	"FortiSandbox 4.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-10-13T23:59:59Z",
+			"Full": "2025-04-13T23:59:59Z"
+		}
+	},
+	"FortiWeb 5.6": {
+		"ended": true,
+		"date": {
+			"EOS": "2019-09-26T23:59:59Z",
+			"Full": "2019-09-26T23:59:59Z"
+		}
+	},
+	"FortiWeb 5.7": {
+		"ended": true,
+		"date": {
+			"EOS": "2021-07-18T23:59:59Z",
+			"Full": "2020-01-18T23:59:59Z"
+		}
+	},
+	"FortiWeb 5.8": {
+		"ended": true,
+		"date": {
+			"EOS": "2021-10-27T23:59:59Z",
+			"Full": "2020-04-27T23:59:59Z"
+		}
+	},
+	"FortiWeb 5.9": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-09-20T23:59:59Z",
+			"Full": "2021-03-20T23:59:59Z"
+		}
+	},
+	"FortiWeb 6.0": {
+		"ended": true,
+		"date": {
+			"EOS": "2022-11-23T23:59:59Z",
+			"Full": "2021-05-23T23:59:59Z"
+		}
+	},
+	"FortiWeb 6.1": {
+		"ended": true,
+		"date": {
+			"EOS": "2023-09-27T23:59:59Z",
+			"Full": "2022-03-27T23:59:59Z"
+		}
+	},
+	"FortiWeb 6.2": {
+		"ended": true,
+		"date": {
+			"EOS": "2024-03-30T23:59:59Z",
+			"Full": "2022-09-30T23:59:59Z"
+		}
+	},
+	"FortiWeb 6.3": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-07-21T23:59:59Z",
+			"Full": "2023-01-21T23:59:59Z"
+		}
+	},
+	"FortiWeb 6.4": {
+		"ended": false,
+		"date": {
+			"EOS": "2024-10-01T23:59:59Z",
+			"Full": "2023-04-01T23:59:59Z"
+		}
+	},
+	"FortiWeb 7.0": {
+		"ended": false,
+		"date": {
+			"EOS": "2026-07-19T23:59:59Z",
+			"Full": "2025-01-19T23:59:59Z"
+		}
+	},
+	"FortiWeb 7.2": {
+		"ended": false,
+		"date": {
+			"EOS": "2027-06-16T23:59:59Z",
+			"Full": "2025-01-16T23:59:59Z"
+		}
+	}
+}

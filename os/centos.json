@@ -1,0 +1,44 @@
+{
+	"3": {
+		"ended": true,
+		"date": {
+			"Full": "2006-07-20T23:59:59Z",
+			"Maintenance": "2010-10-31T23:59:59Z"
+		}
+	},
+	"4": {
+		"ended": true,
+		"date": {
+			"Full": "2009-03-31T23:59:59Z",
+			"Maintenance": "2012-02-29T23:59:59Z"
+		}
+	},
+	"5": {
+		"ended": true,
+		"date": {
+			"Full": "2014-01-31T23:59:59Z",
+			"Maintenance": "2017-03-31T23:59:59Z"
+		}
+	},
+	"6": {
+		"ended": true,
+		"date": {
+			"Full": "2017-05-10T23:59:59Z",
+			"Maintenance": "2020-11-30T23:59:59Z"
+		}
+	},
+	"7": {
+		"ended": false,
+		"date": {
+			"Full": "2020-08-06T23:59:59Z",
+			"Maintenance": "2024-06-30T23:59:59Z"
+		}
+	},
+	"8": {
+		"ended": true,
+		"date": {
+			"Full": "2021-12-31T23:59:59Z",
+			"Maintenance": "2021-12-31T23:59:59Z"
+		}
+	}
+}

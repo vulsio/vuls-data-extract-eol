@@ -1,0 +1,49 @@
+{
+	"3": {
+		"ended": true,
+		"date": {
+			"Standard": "2011-09-30T23:59:59Z"
+		}
+	},
+	"4": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-01-31T23:59:59Z"
+		}
+	},
+	"5": {
+		"ended": true,
+		"date": {
+			"Extended": "2020-10-31T23:59:59Z",
+			"Standard": "2017-05-31T23:59:59Z"
+		}
+	},
+	"6": {
+		"ended": false,
+		"date": {
+			"Extended": "2024-11-30T23:59:59Z",
+			"Standard": "2021-02-28T23:59:59Z"
+		}
+	},
+	"7": {
+		"ended": false,
+		"date": {
+			"Extended": "2028-05-31T23:59:59Z",
+			"Standard": "2024-11-30T23:59:59Z"
+		}
+	},
+	"8": {
+		"ended": false,
+		"date": {
+			"Extended": "2032-06-30T23:59:59Z",
+			"Standard": "2029-06-30T23:59:59Z"
+		}
+	},
+	"9": {
+		"ended": false,
+		"date": {
+			"Extended": "2035-05-31T23:59:59Z",
+			"Standard": "2032-05-31T23:59:59Z"
+		}
+	}
+}

@@ -1,0 +1,104 @@
+{
+	"bo": {
+		"ended": true
+	},
+	"bookworm": {
+		"ended": false
+	},
+	"bullseye": {
+		"ended": false,
+		"date": {
+			"Standard": "2024-07-31T23:59:59Z"
+		}
+	},
+	"buster": {
+		"ended": true,
+		"date": {
+			"LTS": "2024-06-30T23:59:59Z",
+			"Standard": "2022-09-10T23:59:59Z"
+		}
+	},
+	"buzz": {
+		"ended": true
+	},
+	"etch": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-02-15T23:59:59Z"
+		}
+	},
+	"forky": {
+		"ended": false
+	},
+	"hamm": {
+		"ended": true
+	},
+	"jessie": {
+		"ended": false,
+		"date": {
+			"ELTS": "2025-06-30T23:59:59Z",
+			"LTS": "2020-06-30T23:59:59Z",
+			"Standard": "2018-06-17T23:59:59Z"
+		}
+	},
+	"lenny": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-02-06T23:59:59Z"
+		}
+	},
+	"potato": {
+		"ended": true,
+		"date": {
+			"Standard": "2003-06-30T23:59:59Z"
+		}
+	},
+	"rex": {
+		"ended": true
+	},
+	"sarge": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-03-31T23:59:59Z"
+		}
+	},
+	"slink": {
+		"ended": true,
+		"date": {
+			"LTS": "2000-10-30T23:59:59Z",
+			"Standard": "2000-09-30T23:59:59Z"
+		}
+	},
+	"squeeze": {
+		"ended": true,
+		"date": {
+			"LTS": "2016-02-29T23:59:59Z",
+			"Standard": "2014-05-31T23:59:59Z"
+		}
+	},
+	"stretch": {
+		"ended": false,
+		"date": {
+			"ELTS": "2027-06-30T23:59:59Z",
+			"LTS": "2022-07-01T23:59:59Z",
+			"Standard": "2020-07-18T23:59:59Z"
+		}
+	},
+	"trixie": {
+		"ended": false
+	},
+	"wheezy": {
+		"ended": true,
+		"date": {
+			"ELTS": "2020-06-30T23:59:59Z",
+			"LTS": "2018-05-31T23:59:59Z",
+			"Standard": "2016-04-25T23:59:59Z"
+		}
+	},
+	"woody": {
+		"ended": true,
+		"date": {
+			"Standard": "2006-06-30T23:59:59Z"
+		}
+	}
+}

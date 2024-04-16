@@ -1,0 +1,104 @@
+{
+	"11": {
+		"ended": true,
+		"date": {
+			"General": "2010-12-31T23:59:59Z"
+		}
+	},
+	"11.1": {
+		"ended": true,
+		"date": {
+			"General": "2012-08-31T23:59:59Z"
+		}
+	},
+	"11.2": {
+		"ended": true,
+		"date": {
+			"General": "2014-01-31T23:59:59Z"
+		}
+	},
+	"11.3": {
+		"ended": true,
+		"date": {
+			"General": "2016-01-31T23:59:59Z"
+		}
+	},
+	"11.4": {
+		"ended": true,
+		"date": {
+			"General": "2016-03-31T23:59:59Z"
+		}
+	},
+	"12": {
+		"ended": true,
+		"date": {
+			"General": "2016-06-30T23:59:59Z"
+		}
+	},
+	"12.1": {
+		"ended": true,
+		"date": {
+			"General": "2017-05-31T23:59:59Z"
+		}
+	},
+	"12.2": {
+		"ended": true,
+		"date": {
+			"General": "2018-03-31T23:59:59Z"
+		}
+	},
+	"12.3": {
+		"ended": true,
+		"date": {
+			"General": "2019-06-30T23:59:59Z"
+		}
+	},
+	"12.4": {
+		"ended": true,
+		"date": {
+			"General": "2019-12-31T23:59:59Z"
+		}
+	},
+	"15": {
+		"ended": true,
+		"date": {
+			"General": "2019-12-31T23:59:59Z"
+		}
+	},
+	"15.1": {
+		"ended": true,
+		"date": {
+			"General": "2021-01-31T23:59:59Z"
+		}
+	},
+	"15.2": {
+		"ended": true,
+		"date": {
+			"General": "2021-12-31T23:59:59Z"
+		}
+	},
+	"15.3": {
+		"ended": true,
+		"date": {
+			"General": "2022-12-31T23:59:59Z"
+		}
+	},
+	"15.4": {
+		"ended": true,
+		"date": {
+			"General": "2023-12-31T23:59:59Z"
+		}
+	},
+	"15.5": {
+		"ended": false
+	},
+	"15.6": {
+		"ended": false
+	},
+	"15.7": {
+		"ended": false,
+		"date": {
+			"General": "2028-07-31T23:59:59Z"
+		}
+	}
+}

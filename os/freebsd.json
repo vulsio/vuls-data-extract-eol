@@ -1,0 +1,317 @@
+{
+	"releng/10.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2015-02-28T23:59:59Z"
+		}
+	},
+	"releng/10.1": {
+		"ended": true,
+		"date": {
+			"Extended": "2016-12-31T23:59:59Z"
+		}
+	},
+	"releng/10.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-12-31T23:59:59Z"
+		}
+	},
+	"releng/10.3": {
+		"ended": true,
+		"date": {
+			"Extended": "2018-04-30T23:59:59Z"
+		}
+	},
+	"releng/10.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-10-31T23:59:59Z"
+		}
+	},
+	"releng/11.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-11-30T23:59:59Z"
+		}
+	},
+	"releng/11.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-09-30T23:59:59Z"
+		}
+	},
+	"releng/11.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2019-10-31T23:59:59Z"
+		}
+	},
+	"releng/11.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-09-30T23:59:59Z"
+		}
+	},
+	"releng/11.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-09-30T23:59:59Z"
+		}
+	},
+	"releng/12.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-02-29T23:59:59Z"
+		}
+	},
+	"releng/12.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-01-31T23:59:59Z"
+		}
+	},
+	"releng/12.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-03-31T23:59:59Z"
+		}
+	},
+	"releng/12.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-03-31T23:59:59Z"
+		}
+	},
+	"releng/12.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-12-31T23:59:59Z"
+		}
+	},
+	"releng/13.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-08-31T23:59:59Z"
+		}
+	},
+	"releng/13.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-07-31T23:59:59Z"
+		}
+	},
+	"releng/13.2": {
+		"ended": false
+	},
+	"releng/14.0": {
+		"ended": false
+	},
+	"releng/14.1": {
+		"ended": false
+	},
+	"releng/4.11": {
+		"ended": true,
+		"date": {
+			"Extended": "2007-01-31T23:59:59Z"
+		}
+	},
+	"releng/5.3": {
+		"ended": true,
+		"date": {
+			"Extended": "2006-10-31T23:59:59Z"
+		}
+	},
+	"releng/5.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2006-10-31T23:59:59Z"
+		}
+	},
+	"releng/5.5": {
+		"ended": true,
+		"date": {
+			"Extended": "2008-05-31T23:59:59Z"
+		}
+	},
+	"releng/6.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2007-01-31T23:59:59Z"
+		}
+	},
+	"releng/6.1": {
+		"ended": true,
+		"date": {
+			"Extended": "2008-05-31T23:59:59Z"
+		}
+	},
+	"releng/6.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-05-31T23:59:59Z"
+		}
+	},
+	"releng/6.3": {
+		"ended": true,
+		"date": {
+			"Extended": "2010-01-31T23:59:59Z"
+		}
+	},
+	"releng/6.4": {
+		"ended": true,
+		"date": {
+			"Extended": "2010-11-30T23:59:59Z"
+		}
+	},
+	"releng/7.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2009-04-30T23:59:59Z"
+		}
+	},
+	"releng/7.1": {
+		"ended": true,
+		"date": {
+			"Extended": "2011-02-28T23:59:59Z"
+		}
+	},
+	"releng/7.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-06-30T23:59:59Z"
+		}
+	},
+	"releng/7.3": {
+		"ended": true,
+		"date": {
+			"Extended": "2012-03-31T23:59:59Z"
+		}
+	},
+	"releng/7.4": {
+		"ended": true,
+		"date": {
+			"Extended": "2013-02-28T23:59:59Z"
+		}
+	},
+	"releng/8.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-11-30T23:59:59Z"
+		}
+	},
+	"releng/8.1": {
+		"ended": true,
+		"date": {
+			"Extended": "2012-07-31T23:59:59Z"
+		}
+	},
+	"releng/8.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-07-31T23:59:59Z"
+		}
+	},
+	"releng/8.3": {
+		"ended": true,
+		"date": {
+			"Extended": "2014-04-30T23:59:59Z"
+		}
+	},
+	"releng/8.4": {
+		"ended": true,
+		"date": {
+			"Extended": "2015-08-01T23:59:59Z"
+		}
+	},
+	"releng/9.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-03-31T23:59:59Z"
+		}
+	},
+	"releng/9.1": {
+		"ended": true,
+		"date": {
+			"Extended": "2014-12-31T23:59:59Z"
+		}
+	},
+	"releng/9.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-12-31T23:59:59Z"
+		}
+	},
+	"releng/9.3": {
+		"ended": true,
+		"date": {
+			"Extended": "2016-12-31T23:59:59Z"
+		}
+	},
+	"stable/10": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-10-31T23:59:59Z"
+		}
+	},
+	"stable/11": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-09-30T23:59:59Z"
+		}
+	},
+	"stable/12": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-12-31T23:59:59Z"
+		}
+	},
+	"stable/13": {
+		"ended": false,
+		"date": {
+			"Standard": "2026-01-31T23:59:59Z"
+		}
+	},
+	"stable/14": {
+		"ended": false,
+		"date": {
+			"Standard": "2028-11-30T23:59:59Z"
+		}
+	},
+	"stable/4": {
+		"ended": true,
+		"date": {
+			"Standard": "2007-01-31T23:59:59Z"
+		}
+	},
+	"stable/5": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-05-31T23:59:59Z"
+		}
+	},
+	"stable/6": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-11-30T23:59:59Z"
+		}
+	},
+	"stable/7": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-02-28T23:59:59Z"
+		}
+	},
+	"stable/8": {
+		"ended": true,
+		"date": {
+			"Standard": "2015-08-01T23:59:59Z"
+		}
+	},
+	"stable/9": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-12-31T23:59:59Z"
+		}
+	}
+}

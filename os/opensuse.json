@@ -1,0 +1,107 @@
+{
+	"10.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2007-11-30T23:59:59Z"
+		}
+	},
+	"10.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-05-31T23:59:59Z"
+		}
+	},
+	"10.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-11-30T23:59:59Z"
+		}
+	},
+	"10.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2009-10-31T23:59:59Z"
+		}
+	},
+	"11.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-07-26T23:59:59Z"
+		}
+	},
+	"11.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2011-01-14T23:59:59Z"
+		}
+	},
+	"11.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2011-05-12T23:59:59Z"
+		}
+	},
+	"11.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-01-20T23:59:59Z"
+		}
+	},
+	"11.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-11-05T23:59:59Z"
+		}
+	},
+	"12.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-05-15T23:59:59Z"
+		}
+	},
+	"12.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-01-15T23:59:59Z"
+		}
+	},
+	"12.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2015-01-29T23:59:59Z"
+		}
+	},
+	"13.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-02-03T23:59:59Z"
+		}
+	},
+	"13.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-01-17T23:59:59Z"
+		}
+	},
+	"9.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2006-06-30T23:59:59Z"
+		}
+	},
+	"9.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2006-10-31T23:59:59Z"
+		}
+	},
+	"9.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2007-04-30T23:59:59Z"
+		}
+	},
+	"tumbleweed": {
+		"ended": false
+	}
+}

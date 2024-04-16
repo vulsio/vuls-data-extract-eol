@@ -1,0 +1,60 @@
+{
+	"1": {
+		"ended": true,
+		"date": {
+			"Security": "2006-05-17T23:59:59Z",
+			"Standard": "2004-12-08T23:59:59Z"
+		}
+	},
+	"2": {
+		"ended": true,
+		"date": {
+			"Security": "2008-08-21T23:59:59Z",
+			"Standard": "2005-12-22T23:59:59Z"
+		}
+	},
+	"3": {
+		"ended": true,
+		"date": {
+			"Security": "2009-05-30T23:59:59Z",
+			"Standard": "2007-12-18T23:59:59Z"
+		}
+	},
+	"4": {
+		"ended": true,
+		"date": {
+			"Standard": "2009-04-28T23:59:59Z"
+		}
+	},
+	"5": {
+		"ended": true,
+		"date": {
+			"Security": "2015-11-11T23:59:59Z",
+			"Standard": "2012-10-16T23:59:59Z"
+		}
+	},
+	"6": {
+		"ended": true,
+		"date": {
+			"Security": "2018-08-23T23:59:59Z",
+			"Standard": "2015-09-24T23:59:59Z"
+		}
+	},
+	"7": {
+		"ended": true,
+		"date": {
+			"Security": "2020-06-30T23:59:59Z",
+			"Standard": "2018-07-16T23:59:59Z"
+		}
+	},
+	"8": {
+		"ended": false,
+		"date": {
+			"Security": null,
+			"Standard": "2020-02-13T23:59:59Z"
+		}
+	},
+	"9": {
+		"ended": false
+	}
+}

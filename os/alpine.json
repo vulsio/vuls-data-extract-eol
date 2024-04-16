@@ -1,0 +1,164 @@
+{
+	"2.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-11-01T23:59:59Z"
+		}
+	},
+	"2.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-05-01T23:59:59Z"
+		}
+	},
+	"2.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-11-01T23:59:59Z"
+		}
+	},
+	"2.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-05-01T23:59:59Z"
+		}
+	},
+	"2.5": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-11-01T23:59:59Z"
+		}
+	},
+	"2.6": {
+		"ended": true,
+		"date": {
+			"Standard": "2015-05-01T23:59:59Z"
+		}
+	},
+	"2.7": {
+		"ended": true,
+		"date": {
+			"Standard": "2015-11-01T23:59:59Z"
+		}
+	},
+	"3.0": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-05-01T23:59:59Z"
+		}
+	},
+	"3.1": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-11-01T23:59:59Z"
+		}
+	},
+	"3.10": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-05-01T23:59:59Z"
+		}
+	},
+	"3.11": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-11-01T23:59:59Z"
+		}
+	},
+	"3.12": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-05-01T23:59:59Z"
+		}
+	},
+	"3.13": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-11-01T23:59:59Z"
+		}
+	},
+	"3.14": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-05-01T23:59:59Z"
+		}
+	},
+	"3.15": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-11-01T23:59:59Z"
+		}
+	},
+	"3.16": {
+		"ended": false,
+		"date": {
+			"Standard": "2024-05-23T23:59:59Z"
+		}
+	},
+	"3.17": {
+		"ended": false,
+		"date": {
+			"Standard": "2024-11-22T23:59:59Z"
+		}
+	},
+	"3.18": {
+		"ended": false,
+		"date": {
+			"Standard": "2025-05-09T23:59:59Z"
+		}
+	},
+	"3.19": {
+		"ended": false,
+		"date": {
+			"Standard": "2025-11-01T23:59:59Z"
+		}
+	},
+	"3.2": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-05-01T23:59:59Z"
+		}
+	},
+	"3.3": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-11-01T23:59:59Z"
+		}
+	},
+	"3.4": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-05-01T23:59:59Z"
+		}
+	},
+	"3.5": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-11-01T23:59:59Z"
+		}
+	},
+	"3.6": {
+		"ended": true,
+		"date": {
+			"Standard": "2019-05-01T23:59:59Z"
+		}
+	},
+	"3.7": {
+		"ended": true,
+		"date": {
+			"Standard": "2019-11-01T23:59:59Z"
+		}
+	},
+	"3.8": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-05-01T23:59:59Z"
+		}
+	},
+	"3.9": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-11-01T23:59:59Z"
+		}
+	}
+}

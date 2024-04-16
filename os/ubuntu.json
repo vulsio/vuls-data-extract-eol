@@ -1,0 +1,250 @@
+{
+	"artful": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-07-19T23:59:59Z"
+		}
+	},
+	"bionic": {
+		"ended": false,
+		"date": {
+			"ESM": "2028-04-30T23:59:59Z",
+			"Standard": "2023-06-30T23:59:59Z"
+		}
+	},
+	"breezy": {
+		"ended": true,
+		"date": {
+			"Standard": "2007-04-13T23:59:59Z"
+		}
+	},
+	"cosmic": {
+		"ended": true,
+		"date": {
+			"Standard": "2019-07-18T23:59:59Z"
+		}
+	},
+	"dapper": {
+		"ended": true,
+		"date": {
+			"Standard(desktop)": "2009-07-14T23:59:59Z",
+			"Standard(server)": "2011-06-01T23:59:59Z"
+		}
+	},
+	"disco": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-01-23T23:59:59Z"
+		}
+	},
+	"edgy": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-04-26T23:59:59Z"
+		}
+	},
+	"eoan": {
+		"ended": true,
+		"date": {
+			"Standard": "2020-07-17T23:59:59Z"
+		}
+	},
+	"feisty": {
+		"ended": true,
+		"date": {
+			"Standard": "2008-10-19T23:59:59Z"
+		}
+	},
+	"focal": {
+		"ended": false,
+		"date": {
+			"ESM": "2030-04-30T23:59:59Z",
+			"Standard": "2025-04-30T23:59:59Z"
+		}
+	},
+	"groovy": {
+		"ended": true,
+		"date": {
+			"Standard": "2021-07-22T23:59:59Z"
+		}
+	},
+	"gutsy": {
+		"ended": true,
+		"date": {
+			"Standard": "2009-04-18T23:59:59Z"
+		}
+	},
+	"hardy": {
+		"ended": true,
+		"date": {
+			"Standard(desktop)": "2011-05-12T23:59:59Z",
+			"Standard(server)": "2013-05-09T23:59:59Z"
+		}
+	},
+	"hirsute": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-01-20T23:59:59Z"
+		}
+	},
+	"hoary": {
+		"ended": true,
+		"date": {
+			"Standard": "2006-10-31T23:59:59Z"
+		}
+	},
+	"impish": {
+		"ended": true,
+		"date": {
+			"Standard": "2022-07-14T23:59:59Z"
+		}
+	},
+	"intrepid": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-04-30T23:59:59Z"
+		}
+	},
+	"jammy": {
+		"ended": false,
+		"date": {
+			"Standard": "2027-06-30T23:59:59Z"
+		}
+	},
+	"jaunty": {
+		"ended": true,
+		"date": {
+			"Standard": "2010-10-23T23:59:59Z"
+		}
+	},
+	"karmic": {
+		"ended": true,
+		"date": {
+			"Standard": "2011-04-30T23:59:59Z"
+		}
+	},
+	"kinetic": {
+		"ended": true,
+		"date": {
+			"Standard": "2023-07-20T23:59:59Z"
+		}
+	},
+	"lucid": {
+		"ended": true,
+		"date": {
+			"Standard(desktop)": "2013-05-09T23:59:59Z",
+			"Standard(server)": "2015-04-30T23:59:59Z"
+		}
+	},
+	"lunar": {
+		"ended": true,
+		"date": {
+			"Standard": "2024-01-25T23:59:59Z"
+		}
+	},
+	"mantic": {
+		"ended": false,
+		"date": {
+			"Standard": "2024-07-31T23:59:59Z"
+		}
+	},
+	"maverick": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-04-10T23:59:59Z"
+		}
+	},
+	"natty": {
+		"ended": true,
+		"date": {
+			"Standard": "2012-10-28T23:59:59Z"
+		}
+	},
+	"noble": {
+		"ended": false,
+		"date": {
+			"Standard": "2029-06-30T23:59:59Z"
+		}
+	},
+	"oneiric": {
+		"ended": true,
+		"date": {
+			"Standard": "2013-05-09T23:59:59Z"
+		}
+	},
+	"precise": {
+		"ended": true,
+		"date": {
+			"ESM": "2019-04-30T23:59:59Z",
+			"Standard": "2017-04-28T23:59:59Z"
+		}
+	},
+	"quantal": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-05-16T23:59:59Z"
+		}
+	},
+	"raring": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-01-27T23:59:59Z"
+		}
+	},
+	"saucy": {
+		"ended": true,
+		"date": {
+			"Standard": "2014-07-17T23:59:59Z"
+		}
+	},
+	"trusty": {
+		"ended": true,
+		"date": {
+			"ESM": "2024-04-30T23:59:59Z",
+			"Standard": "2019-04-25T23:59:59Z"
+		}
+	},
+	"utopic": {
+		"ended": true,
+		"date": {
+			"Standard": "2015-07-23T23:59:59Z"
+		}
+	},
+	"vivid": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-02-04T23:59:59Z"
+		}
+	},
+	"warty": {
+		"ended": true,
+		"date": {
+			"Standard": "2006-04-30T23:59:59Z"
+		}
+	},
+	"wily": {
+		"ended": true,
+		"date": {
+			"Standard": "2016-07-28T23:59:59Z"
+		}
+	},
+	"xenial": {
+		"ended": false,
+		"date": {
+			"ESM": "2026-04-30T23:59:59Z",
+			"Standard": "2021-04-30T23:59:59Z"
+		}
+	},
+	"yakkety": {
+		"ended": true,
+		"date": {
+			"Standard": "2017-07-20T23:59:59Z"
+		}
+	},
+	"zesty": {
+		"ended": true,
+		"date": {
+			"Standard": "2018-01-13T23:59:59Z"
+		}
+	}
+}
