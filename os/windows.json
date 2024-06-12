@@ -79,7 +79,7 @@
 		}
 	},
 	"Windows 10 Version 21H2": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"Standard(Enterprise and Education)": "2024-06-11T23:59:59Z",
 			"Standard(Home and Pro)": "2023-06-13T23:59:59Z"
