@@ -28,7 +28,7 @@
 		}
 	},
 	"7": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"Full": "2020-08-06T23:59:59Z",
 			"Maintenance": "2024-06-30T23:59:59Z"
