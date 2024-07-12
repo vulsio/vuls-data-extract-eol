@@ -48,9 +48,8 @@
 		}
 	},
 	"8": {
-		"ended": false,
+		"ended": true,
 		"date": {
-			"Security": null,
 			"Standard": "2020-02-13T23:59:59Z"
 		}
 	},
