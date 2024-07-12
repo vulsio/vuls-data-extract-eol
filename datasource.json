@@ -1,0 +1,7 @@
+{
+	"id": "eol",
+	"name": "End Of Life",
+	"extracted": {
+		"url": "https://github.com/vulsio/vuls-data-extracted-eol"
+	}
+}
