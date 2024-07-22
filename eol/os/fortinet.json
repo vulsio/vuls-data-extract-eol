@@ -423,7 +423,7 @@
 		}
 	},
 	"FortiWeb 6.3": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"EOS": "2024-07-21T23:59:59Z",
 			"Full": "2023-01-21T23:59:59Z"
