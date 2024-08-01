@@ -6,7 +6,7 @@
 		"ended": false
 	},
 	"bullseye": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"Standard": "2024-07-31T23:59:59Z"
 		}
