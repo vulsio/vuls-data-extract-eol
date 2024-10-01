@@ -255,7 +255,7 @@
 		}
 	},
 	"FortiOS 6.4": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"EOS": "2024-09-30T23:59:59Z",
 			"Full": "2023-03-31T23:59:59Z"
