@@ -28,7 +28,7 @@
 		}
 	},
 	"FortiAP 6.4": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"EOS": "2024-10-14T23:59:59Z",
 			"Full": "2023-04-14T23:59:59Z"
