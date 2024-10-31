@@ -353,7 +353,7 @@
 		}
 	},
 	"FortiSandbox 3.2": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"EOS": "2024-10-30T23:59:59Z",
 			"Full": "2023-04-30T23:59:59Z"
