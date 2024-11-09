@@ -147,7 +147,7 @@
 		}
 	},
 	"FortiMail 6.4": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"EOS": "2024-11-08T23:59:59Z",
 			"Full": "2023-05-08T23:59:59Z"
