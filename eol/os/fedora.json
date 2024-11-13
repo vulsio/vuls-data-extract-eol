@@ -192,7 +192,7 @@
 		}
 	},
 	"39": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"Standard": "2024-11-12T23:59:59Z"
 		}
