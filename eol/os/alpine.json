@@ -96,7 +96,7 @@
 		}
 	},
 	"3.17": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"Standard": "2024-11-22T23:59:59Z"
 		}
