@@ -19,7 +19,7 @@
 		}
 	},
 	"6": {
-		"ended": false,
+		"ended": true,
 		"date": {
 			"Extended": "2024-11-30T23:59:59Z",
 			"Standard": "2021-02-28T23:59:59Z"
